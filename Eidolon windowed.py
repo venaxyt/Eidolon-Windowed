@@ -1,4 +1,4 @@
-import threading, requests, gratient, random, pygame, string, os, io
+import threading, requests, gratient, random, pygame, string, io
 
 banner = """
    ▄███▄   ▄█ ██▄   ████▄ █    ████▄    ▄   
